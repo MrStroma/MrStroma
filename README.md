@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a SpringBoot and Angular project
+🔭 I’m currently working on a SpringBoot and Angular project <br>
 🌱 I’m currently learning Java and JS
 👯 I’m looking to collaborate on ...
 🤔 I’m looking for help with ...
