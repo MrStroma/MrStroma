@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*98O4Gb5HLSlmdUkKg1DP1Q.png" width="350" title="hover text">
+  <img src="https://developer.okta.com/assets-jekyll/blog/angular-docker/angular-docker-spring-boot-hug-63c762a1656efad2c54544eb3ef62f4a69b75bd49e6bd7b7d0e50a20c77ac1f3.png" width="350" title="hover text">
 
 </p>
 🔭 I’m currently working on a SpringBoot and Angular project <br>
