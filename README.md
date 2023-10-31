@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:714/1*myvugMFQsmX35oUvNtcM1Q.png" width="350" title="hover text">
 
 </p>
-🔭 I’m currently working on a SpringBoot and Angular project <br>
+🔭 I’m currently working on a SpringBoot and Angular project
 
 🌱 I’m currently learning Java and JS <br>
 
