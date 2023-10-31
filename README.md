@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <img src="https://developer.okta.com/assets-jekyll/blog/angular-docker/angular-docker-spring-boot-hug-63c762a1656efad2c54544eb3ef62f4a69b75bd49e6bd7b7d0e50a20c77ac1f3.png" width="350" title="hover text">
+  <img src="https://d33wubrfki0l68.cloudfront.net/5b0c0a9fe072981c1b1e989d57aa6d9412d5f96f/e7010/assets-jekyll/blog/spring-boot-2-angular-9/bootiful-angular-19d2d529f657663a5634c32a691ed24627f3b175e7eda8f181e4e2709e8c7d3b.png" width="350" title="hover text">
 
 </p>
 🔭 I’m currently working on a SpringBoot and Angular project <br>
