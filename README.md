@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">
+<p>
   <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*98O4Gb5HLSlmdUkKg1DP1Q.png" width="350" title="hover text">
 
 </p>
